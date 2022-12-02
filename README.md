@@ -1,5 +1,7 @@
 # CapstoneP-Customer-Segmentation-with-Python
 
+- [x] [Customer Segmentation Capstone Project](Customer_Segmentation_Student_Notebook_Capstone_1_V2.ipynb)
+
 ## Customer Segmentation, RFM Analysis, K-Means Clustering and Cohort Analysis.
 
 <img src='https://i.ibb.co/xgdFyx6/download.png' alt='' width=90%, height=400>
@@ -10,4 +12,4 @@
 <img src='https://i.ibb.co/VWXCWwD/download.png' alt='' width=90%, height=350>
 
 <img src='https://i.ibb.co/SNZht3X/download.png' alt='' width=90%, height=350>
-<img src='https://i.ibb.co/CvnfVB4/download.png' alt='' width=90%, height=350>
+<img src='https://i.ibb.co/CvnfVB4/download.png' alt='' width=90%, height=500>
